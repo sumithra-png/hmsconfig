@@ -1,0 +1,2 @@
+# hmsconfig
+Configuration Server
